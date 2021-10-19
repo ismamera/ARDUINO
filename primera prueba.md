@@ -163,3 +163,5 @@ digitalWrite(LED_BUILTIN, LOW);
 delay(300); }
 
 void raya (){ digitalWrite(LED_BUILTIN, HIGH); delay(800); digitalWrite(LED_BUILTIN, LOW); delay(300); }
+
+info: Joan Leyba
