@@ -54,6 +54,7 @@ Después
 
 PIN 3-----LED/----- WW---- GND
 
+informacion scada de 
 
 
 
