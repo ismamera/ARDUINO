@@ -2,7 +2,7 @@
  # interfaz de nave
  
  
-Resumen
+## Resumen
 
 El LED verde permanecera encendido hasta que pulses un botón.Cuando el Arduino reciba una señal del botón,la luz verde se apagara y las otras 2 luces empezarán a parpadear.
 Introducción teórica
@@ -54,7 +54,7 @@ Después
 
 PIN 3-----LED/----- WW---- GND
 
-informacion scada de 
+informacion scada de stiven
 
 
 
