@@ -34,6 +34,22 @@ la funcion nos pide 2 cosas por un lado y lo primero el numero de pin por otro l
 
 255 significa 100% de voltaje (sv)
 
+int significa integer q en castellano significa numero integro 
+
+significa que nuestra variable es un tipo de dato numerico no decimal le asigna un espacio en memoria. otros tipos:
+
+sting que significa cadena de caracteres 
+
+bool significa significa bolcano y es verdadero o falso 
+
+chaz q significa 1 unico caracter 
+
+float que signifia numeros decuimales 
+
+raw sensor valers esto son valores del sensor sin tratar
+
+ 
+
 
 
 
