@@ -5,7 +5,13 @@
 modulacion por ancho de pulsos 
 
 problema: tengo un arduino que suministra a un led a mayor intensidad de co reiente (a) el brilla mas 
+
 a menor intensidad de corriente el led brilla menos (ver ley de OHM)
+
+si subimos o bajamos el voltaje ,haremos lo mismo con la intensidad 
+
+suponiendo que la resistencia del circuito es la misma
+
 
 
 
