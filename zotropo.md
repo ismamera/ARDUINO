@@ -5,6 +5,12 @@
 
 ## Código
 
+Aquí el código entero [Enlace](https://github.com/ismamera/ARDUINO/blob/main/molinillo.ino)
+
+https://github.com/ismamera/ARDUINO/blob/main/molinillo.ino
+
+
+
 ```C++
 
 const int switchPin = 2;
