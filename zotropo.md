@@ -1,3 +1,5 @@
+## Titulos 
+
 
 const int switchPin = 2;
 const int motorPin = 9;
@@ -15,6 +17,10 @@ void loop(){
   
   }
 }
+
+## Código
+
+
 
 hoy en classe ha tocado hacer un proyecto cn el arduino el cual se trataaba
 
