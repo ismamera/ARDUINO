@@ -22,7 +22,7 @@
 
 
 
-### RESUMEN
+## codigo
 
 I did this project with ANDREE. IN this project we made a circuit in which we connected a battery 
 
